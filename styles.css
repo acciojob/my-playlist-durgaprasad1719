@@ -23,7 +23,7 @@ h1,h2{
 ul li{
 	list-style-type:none
 }
-.my-playlist{
+.player-one{
 	
 	margin-inline: 20px;
 	border:2px solid black;
@@ -33,18 +33,18 @@ ul li{
 	
 }
 
-.now-playing{
+.player-two{
 border:2px solid black;
 border-radius:4px;
 background-color:#fff;
 padding: 20px;
 margin-inline:20px;
 }
-.now-playing video{
+.player-two video{
     width:60%;
     height: 60%;
 }
-.now-playing audio{
+.player-two audio{
 	width:100%;
 	padding:8px
 }
