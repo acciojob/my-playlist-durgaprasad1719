@@ -23,7 +23,7 @@ h1,h2{
 ul li{
 	list-style-type:none
 }
-.player-one{
+.player_one{
 	
 	margin-inline: 20px;
 	border:2px solid black;
@@ -33,18 +33,18 @@ ul li{
 	
 }
 
-.player-two{
+.player_two{
 border:2px solid black;
 border-radius:4px;
 background-color:#fff;
 padding: 20px;
 margin-inline:20px;
 }
-.player-two video{
+.player_two video{
     width:60%;
     height: 60%;
 }
-.player-two audio{
+.player_two audio{
 	width:100%;
 	padding:8px
 }
